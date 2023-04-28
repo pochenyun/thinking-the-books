@@ -1,3 +1,4 @@
+github:[ebook](https://github.com/kska32/ebooks.git)
 # 收藏的一些经典的电子书(ebook) （约10万本）
 ### 涵盖历史、政治、经济、心理学、哲学、数学、计算机等方面
 <p>
