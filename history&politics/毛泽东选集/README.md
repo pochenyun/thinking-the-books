@@ -1,3 +1,4 @@
+github:[Selected-Works-of-Mao-Zedong-JingHuo-version](https://github.com/lindaye6/Selected-Works-of-Mao-Zedong-JingHuo-version.git)
 # Selected-Works-of-Mao-Zedong-JingHuo-version
 
 静火版本的《毛泽东选集》，共七卷。
