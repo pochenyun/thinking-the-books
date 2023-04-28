@@ -1,3 +1,6 @@
+github:[deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese.git)<br>
+web:[Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
+
 # Deep Learning 中文翻译
 
 在众多网友的帮助和校对下，中文版终于出版了。尽管还有很多问题，但至少90%的内容是可读的，并且是准确的。
